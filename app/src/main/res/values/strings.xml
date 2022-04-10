@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacts Manager</string>
+    <string name="show">show</string>
+    <string name="hide">hide</string>
+    <string name="name">name</string>
+    <string name="phone_number">phone number</string>
+    <string name="email">email</string>
+    <string name="address">adress</string>
+    <string name="job">job</string>
+    <string name="company">company</string>
+    <string name="website">website</string>
+    <string name="IM">IM</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="phone_error">100</string>
+</resources>
